@@ -1,9 +1,8 @@
 - 👋🏼 Hi, I’m Carlyn [pronounced: Carl-lynn]
-- 📈 I’m currently studying a Full Web Development course with Udemy
-- 🌱 I’m currently in the second half of the course, completing the Backend
-- 💞️ I’m open to any tips, tricks and advice on where I can improve
-- 🚀 My goal is to be a Full-Stack Engineer by end of 2023 💪🏼
-- 📫 How to reach me carlynevertson@gmail.com
+- 💻 Web Developer focused on building responsive and user-friendly web apps
+- 🌱 Currently deepening my frontend skills
+- 💡 Always open to tips, best practices and collaboration opportunities
+- 🎯 Goal: grow into a Full-Stack Engineer while continuing to sharpen my frontend expertise
 
 <!---
 carlynevertson/carlynevertson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
